@@ -17,7 +17,6 @@ I'm Bioinformatics Graduate from the University of Toronto St.George Campus work
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wjdwogud24&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
----
 [![Visitor Count](https://visitcount.itsvg.in/api?id=wjdwogud24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
